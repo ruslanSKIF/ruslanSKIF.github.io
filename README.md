@@ -1,3 +1,2 @@
 # ruslanSKIF.github.io
-landing page
-training landing page, practice in HTML, CSS, JS
+https://ruslanskif.github.io/buy%20vso/
